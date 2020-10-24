@@ -3,6 +3,8 @@ use and XBOX360/XBOXONE controller as your mouse
 
 VS2019 C# .NET framework 4.7.2
 
+-SharpDX and MicrosoftInput libraries included-
+
 To view project - "Open in Visual Studio"
 
 To run/use the current version of the app:
