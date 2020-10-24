@@ -15,7 +15,7 @@ To run/use the current version of the app:
 Click the 'START' button.
 
 Controls:
-A = Left-Mouse Button.
-B = Right-Mouse Button.
-Lefdt JoyStick = Mouse Movement.
-Right JoyStick Y-Axis = Scroll.
+- A = Left-Mouse Button.
+- B = Right-Mouse Button.
+- Left JoyStick = Mouse Movement.
+- Right JoyStick Y-Axis = Scroll.
