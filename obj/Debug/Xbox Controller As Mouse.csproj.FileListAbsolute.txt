@@ -1,0 +1,22 @@
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\Xbox Controller As Mouse.exe.config
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\Xbox Controller As Mouse.exe
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\Xbox Controller As Mouse.pdb
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\SharpDX.dll
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\SharpDX.XInput.dll
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\WindowsInput.dll
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\SharpDX.pdb
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\SharpDX.XInput.pdb
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\SharpDX.XInput.xml
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\WindowsInput.xml
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.csprojAssemblyReference.cache
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox_Controller_As_Mouse.Form1.resources
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox_Controller_As_Mouse.Properties.Resources.resources
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.csproj.GenerateResource.cache
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.csproj.CoreCompileInputs.cache
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.csproj.CopyComplete
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.exe
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.pdb
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\Xbox Controller As Mouse.exe.manifest
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\bin\Debug\Xbox Controller As Mouse.application
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.exe.manifest
+C:\Users\owenf\source\repos\Xbox Controller As Mouse\obj\Debug\Xbox Controller As Mouse.application
