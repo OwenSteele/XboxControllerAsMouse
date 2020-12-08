@@ -1,5 +1,5 @@
 # XboxControllerAsMouse
-use and XBOX360/XBOXONE controller as your mouse
+use an XBOX360/XBOXONE controller as your mouse
 
 VS2019 C# .NET framework 4.7.2
 
